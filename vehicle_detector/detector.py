@@ -1,3 +1,4 @@
+# detector module
 from ultralytics import YOLO
 import cv2
 
