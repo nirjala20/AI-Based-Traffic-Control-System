@@ -225,3 +225,4 @@ def countdown_and_cycle_signals(timings):
 
 if __name__ == "__main__":
     main()
+    
